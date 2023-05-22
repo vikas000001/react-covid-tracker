@@ -10,7 +10,7 @@ function ContactUs() {
             <p className='info'>Please specify the problem you fact while using this application in the message section. If you don't find what you need, fill out our contact form. Contact us for more information </p>
             <ul className="details">
               <li className="d-flex text-black mb-2">
-                <span className="mr-3"><span className="fa fa-map-marker px-2"></span></span>  Bachupally , Hyderabad, India
+                <span className="mr-3"><span className="fa fa-map-marker px-2"></span></span>  Narayanaguda , Hyderabad, India
               </li>
               <li className="d-flex text-black mb-2">
                 <span className="mr-3">
